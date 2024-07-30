@@ -15,6 +15,12 @@ Presently attending Concordia University's Full stack web development bootcamp.<
 
 ## Skills:<br>
 
+HTML, CSS, Github, React, JavaScript, NodeJS, MongoDB.
+
 ## Projects:<br>
 
+NyanCat: Save the Turtle
+
 ## Web development experience:<br>
+
+Concordia University Full Stack Web Development Bootcamp
