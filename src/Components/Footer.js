@@ -10,11 +10,22 @@ const Footer = () => {
         <StyledP>
           Email:
           <StyledA href="mailto:kuchiburu@hotmail.com" target="_blank">
-            kuchiburu@hotmail.com
+            Write me
           </StyledA>
         </StyledP>
-        <StyledP>Phone Number: (514)918-0293</StyledP>
-        <StyledP> LinkedIn</StyledP>
+        <StyledP>
+          Phone Number:
+          <StyledA href="(514)918-0293">Call Me</StyledA>
+        </StyledP>
+        <StyledP>
+          Linkedin:
+          <StyledA
+            href="https://www.linkedin.com/in/charleen-keenan-50247a320/"
+            target="_blank"
+          >
+            Find Me
+          </StyledA>
+        </StyledP>
       </StyledDiv>
     </>
   );
@@ -32,9 +43,13 @@ const StyledH2 = styled.h2`
   margin: 15px;
 `;
 const StyledP = styled.p`
+  color: black;
   display: flex;
   padding: 0px 25px;
   font-size: 0.8em;
+  // &:hover {
+  //   color: teal;
+  // }
 `;
 const StyledA = styled.a`
   color: black;

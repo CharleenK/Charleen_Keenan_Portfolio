@@ -28,7 +28,7 @@ const Technologies = () => {
           </span>
           <span className="icon">
             <FontAwesomeIcon icon={faReact} size={"2x"} />
-            <p className="hide">HTML</p>
+            <p className="hide">React</p>
           </span>
           <span className="icon">
             <FontAwesomeIcon icon={faJs} size={"2x"} />
